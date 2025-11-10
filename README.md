@@ -139,11 +139,3 @@ proot-distro login debian
 * Installation time ranges from **5–30 minutes**, depending on the desktop choice.
 
 ---
-
-**Author:** Random Linux User
-**Updated:** November 2025
-**License:** GNU
-
----
-
-```
