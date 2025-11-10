@@ -61,8 +61,3 @@ If GNOME shows session or systemd errors:
 ```bash
 find /usr -type f -iname "*login1*" -exec rm -f {} \;
 ```
-
-
-
-**Author:** ????
-**Updated:** Novemeber 9 2025
