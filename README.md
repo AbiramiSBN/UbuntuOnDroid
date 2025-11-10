@@ -19,7 +19,7 @@ It also includes setup steps for **GNOME Desktop** and **VNC** access, so you ca
    ```bash
    pkg update -y
    pkg install proot-distro -y
-````
+
 
 2. Install Ubuntu:
 
